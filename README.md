@@ -18,15 +18,15 @@
 ```
 
 ## How To Use
+Run each command line-by-line in your terminal to set up the project:
 
-1. Visit [github.com/new](https://github.com/new) and create a new repository named `google-search-tool`.
-2. Run each command line-by-line in your terminal to set up the project:
-
+### Install
 ```bash
 $ git clone git@github.com:tristann3/google-search-tool.git
 $ cd google-search-tool
 ```
 
+### Run Command
 ```bash
 $ go build search.go
 $ ./search "ENTER_SEARCH_TERM_HERE"
