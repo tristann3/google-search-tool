@@ -19,7 +19,7 @@
 
 ## How To Use
 
-1. Visit [github.com/new](https://github.com/new) and create a new repository named `makesite`.
+1. Visit [github.com/new](https://github.com/new) and create a new repository named `google-search-tool`.
 2. Run each command line-by-line in your terminal to set up the project:
 
 ```bash
