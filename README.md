@@ -25,11 +25,9 @@
 ```bash
 $ git clone git@github.com:tristann3/google-search-tool.git
 $ cd google-search-tool
-$ git remote rm origin
-$ git remote add origin git@github.com:YOUR_GITHUB_USERNAME/google-search-tool.git
 ```
 
 ```bash
-go build search.go
-./search "ENTER_SEARCH_TERM_HERE"
+$ go build search.go
+$ ./search "ENTER_SEARCH_TERM_HERE"
 ```
