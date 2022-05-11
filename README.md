@@ -7,8 +7,6 @@
 
 1. [Project Structure](#project-structure)
 2. [How To Use](#how-to-use)
-3. [Deliverables](#deliverables)
-4. [Resources](#resources)
 
 ## Project Structure
 
